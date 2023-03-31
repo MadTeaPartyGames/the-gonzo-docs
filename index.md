@@ -6,6 +6,6 @@ description: "Gonzo FX Documentation."
 permalink: /
 ---
 
-# Focus on writing good documentation
+# The Edge... there is no honest way to explain it because the only people who really know where it is are the ones who have gone over.
 {: .fs-9 }
 
