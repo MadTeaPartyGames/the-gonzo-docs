@@ -20,7 +20,7 @@ nav_order: 2
 > - Place a GonzoFX actor into a level
 > 
 > ![](../assets/images/actor-place.png) 
->  Default settings will use a timer to always check for Gameplay Tags and setting changes for the various effects.
+> - Default settings will use a timer to always check for Gameplay Tags and setting changes for the various effects.
 > 
 > ![](../assets/images/actor-defaults.png) 
 > - Add Gameplay Tags from under **Gonzo.Effects** to apply the effects
@@ -32,6 +32,12 @@ nav_order: 2
 
 ## **Important Information:**
 {: .fs-6 }
-> > - **StencilMask** and **StencilBuffer** settings found under the effect's Advanced Settings requires the project setting **Custom Depth-Stencil Pass** set to **Enabled with Stencil**
-![](../assets/images/proj-settings.png)
+> - **StencilMask** and **StencilBuffer** settings found under the effect's Advanced Settings requires the project setting **Custom Depth-Stencil Pass** set to **Enabled with Stencil**
+> 
+> ![](../assets/images/proj-settings.png)
+> - The timer can be disabled by removing **Gonzo.AlwaysOn** or setting **Gonzo Update Rate** to **0.0**
+> - If **Gonzo.AlwaysOn** is removed, or **Gonzo Update Rate** set to **0.0**, settings and effects can be manually applied by calling the function **UpdateGonzo**, which is exposed to Blueprint.
+> 
+> ![](../assets/images/update-gonzo.png)
+> - There are also helper functions exposed to Blueprint for starting and stopping the timer if manual control is desired, or things like temporary effects. These would be **GonzoStart** and **GonzoStop**. If using **GonzoStart**, ensure you add **Gonzo.AlwaysOn** as well as setting **Gonzo Update Rate** to a value greater than **0.0**, like the default of **0.1**
 
