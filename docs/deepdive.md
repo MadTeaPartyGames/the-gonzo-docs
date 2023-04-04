@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Quick Start
+title: The Gonzo Way
 nav_order: 2
 ---
-# GonzoFX Quick Start
+# GonzoFX Deep Dive
 {: .fs-9 }
