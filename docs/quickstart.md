@@ -8,3 +8,4 @@ nav_order: 2
 
 {: .fs-6 }
 [Home](https://madteapartygames.github.io/the-gonzo-docs/){: .btn .btn-purple }
+[The Gonzo Way](https://madteapartygames.github.io/the-gonzo-docs/docs/deepdive.html){: .btn .btn-purple }
