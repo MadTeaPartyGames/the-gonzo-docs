@@ -13,13 +13,18 @@ permalink: /
 
 ## Introduction:
 {: .fs-6 }
-GonzoFX ia a plugin that is intended to allow for quick and easy post process effects. Some of them are common effects, others are intended to add some trippy mind altering effects. A single actor built in C++ to be as performant as possible.
 
 >
 > 1. Make a post process actor to apply trippy effects
 > 1. ...
 > 1. Profit
-> 
+>
+
+GonzoFX ia a plugin that is intended to allow for quick and easy post process effects. Some of them are common effects, others are intended to add some trippy mind altering effects. A single actor built in C++ to be as performant as possible. 
+
+Both the namesake and several of the effects are a direct homage and heavily inspired by my long time love for the life and work of Dr. Hunter S. Thompson. The Gonzo Way. 
+
+Follow the links below to begin your journey to the edge and back again. It never got weird enough for me.
 
 ## Zero to Gonzo in seconds!
 {: .fs-6 }
