@@ -36,4 +36,8 @@ _It never got weird enough for me_.
 {: .fs-6 }
 [The Gonzo Way](https://madteapartygames.github.io/the-gonzo-docs/docs/deepdive.html){: .btn .btn-purple }
 
+## Marketplace Recommendations
+{: .fs-6 }
+[Recommends](https://madteapartygames.github.io/the-gonzo-docs/docs/recommends.html){: .btn .btn-purple }
+
 ![](assets/images/logo-1024.png)
