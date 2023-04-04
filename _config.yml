@@ -11,3 +11,4 @@ aux_links:
 color_scheme: dark
 logo: "/assets/images/title.png"
 favicon_ico: "/assets/images/favicon.png"
+heading_anchors: false
