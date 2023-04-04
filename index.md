@@ -35,4 +35,4 @@ Follow the links below to begin your journey to the edge and back again. _It nev
 [The Gonzo Way](https://madteapartygames.github.io/the-gonzo-docs/docs/deepdive.html){: .btn .btn-purple }
 
 ![](assets/images/logo-256.png)
-{: .pr-4 }
+{: .pl-42 }
