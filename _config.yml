@@ -13,3 +13,6 @@ logo: "/assets/images/title.png"
 favicon_ico: "/assets/images/favicon.png"
 heading_anchors: false
 footer_content: "Copyright &copy; 2023 Mad Tea Party Games."
+
+back_to_top: true
+back_to_top_text: "Back to top"
