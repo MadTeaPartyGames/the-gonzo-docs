@@ -5,3 +5,6 @@ nav_order: 3
 ---
 # GonzoFX Deep Dive
 {: .fs-9 }
+
+{: .fs-6 }
+[Home](https://madteapartygames.github.io/the-gonzo-docs/){: .btn .btn-purple }
