@@ -12,7 +12,10 @@ permalink: /
 
 ## Introduction:
 
+GonzoFX is a...
 
+## Zero to Gonzo in seconds!
 [Quick Start](https://madteapartygames.github.io/the-gonzo-docs/docs/quickstart.html){: .btn .btn-purple }
 
+## Deep dive overview of GonzoFX
 [The Gonzo Way](https://madteapartygames.github.io/the-gonzo-docs/docs/deepdive.html){: .btn .btn-purple }
