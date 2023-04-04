@@ -12,6 +12,8 @@ permalink: /
 
 ## Introduction:
 
-## Quick Start:
+*[quickstart]*
+
+[Quick Start](http://example.com/){: .btn .btn-purple }
 
 ## The Gonzo Way:
