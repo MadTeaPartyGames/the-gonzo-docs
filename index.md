@@ -12,8 +12,6 @@ permalink: /
 
 ## Introduction:
 
-*[quickstart]*
-
-[Quick Start](http://example.com/){: .btn .btn-purple }
+[Quick Start](https://madteapartygames.github.io/the-gonzo-docs/docs/quickstart.html){: .btn .btn-purple }
 
 ## The Gonzo Way:
