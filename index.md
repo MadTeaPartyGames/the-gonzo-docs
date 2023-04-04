@@ -25,6 +25,7 @@ permalink: /
 Both the namesake and several of the effects are a direct homage and heavily inspired by my long time love for the life and work of Dr. Hunter S. Thompson. _The **Gonzo** Way_. 
 
 Follow the links below to begin your journey to the edge and back again.
+
 _It never got weird enough for me_.
 
 ## Zero to Gonzo in seconds!
