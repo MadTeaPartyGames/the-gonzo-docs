@@ -10,7 +10,11 @@ nav_order: 2
 [Recommends](https://madteapartygames.github.io/the-gonzo-docs/docs/recommends.html){: .btn .btn-purple }
 
 ## Quick Start Steps:
-{: .fs-6 } 
+{: .fs-6 }
+> 1. In the Content Browser, enable the setting to show plugin-content
+> ![](../assets/images/browser-settings.png)
+> 1. Locate the GonzoFX actor in the Content Browser
+> ![](../assets/images/actor-path.png) 
 > 1. Place a GonzoFX actor into a level
 > 1. Default settings will use a timer to always check for Gameplay Tags and setting changes for the various effects.
 > 1. Add Gameplay Tags from under **Gonzo.Effects** to apply the effects
