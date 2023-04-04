@@ -11,13 +11,13 @@ permalink: /
 {: .fs-5 .fw-300 }
 
 ## Introduction:
-{: .fs-7 }
+{: .fs-6 .fw-400 }
 GonzoFX ia a plugin that is intended to allow for quick and easy post process effects. Some of the are common effects, others are intended to add some trippy mind altering effects. A single actor built in C++ to be as performant as possible.
 
 ## Zero to Gonzo in seconds!
-{: .fs-7 }
+{: .fs-6 .fw-400 }
 [Quick Start](https://madteapartygames.github.io/the-gonzo-docs/docs/quickstart.html){: .btn .btn-purple }
 
 ## Deep dive overview of GonzoFX
-{: .fs-7 }
+{: .fs-6 .fw-400 }
 [The Gonzo Way](https://madteapartygames.github.io/the-gonzo-docs/docs/deepdive.html){: .btn .btn-purple }
