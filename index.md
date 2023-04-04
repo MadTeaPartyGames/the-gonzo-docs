@@ -36,4 +36,4 @@ _It never got weird enough for me_.
 {: .fs-6 }
 [The Gonzo Way](https://madteapartygames.github.io/the-gonzo-docs/docs/deepdive.html){: .btn .btn-purple }
 
-![](assets/images/logo-256.png)
+![](assets/images/logo-1024.png)
