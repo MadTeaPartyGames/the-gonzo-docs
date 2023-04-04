@@ -11,11 +11,20 @@ nav_order: 4
 
 ## Current Recommendations:
 {: .fs-6 }
+These are plugins that I currently use, and many of them I could not imagine working without. 
 
-### GAS Companion
+### GAS Companion:
 {: .fs-4 }
 [GSC](https://www.unrealengine.com/marketplace/en-US/product/gas-companion){: .btn .btn-purple }
 
-### TwistedBytes Interaction System
+### TwistedBytes Interaction System:
 {: .fs-4 }
 [TBIA](https://www.unrealengine.com/marketplace/en-US/product/twistedbytes-interaction-system){: .btn .btn-purple }
+
+### Skinned Decal Component:
+{: .fs-4 }
+[SDC](https://www.unrealengine.com/marketplace/en-US/product/skinned-decal-component){: .btn .btn-purple }
+
+### Easy Utility AI:
+{: .fs-4 }
+[EAI](https://www.unrealengine.com/marketplace/en-US/product/easy-utility-ai){: .btn .btn-purple }
