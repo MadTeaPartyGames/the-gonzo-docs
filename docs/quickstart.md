@@ -14,8 +14,7 @@ nav_order: 2
 ### **Important Information:**
 
 > > - **StencilMask** and **StencilBuffer** settings found under the effect's Advanced Settings requires the project setting **Custom Depth-Stencil Pass** set to **Enabled with Stencil**
-
-![](assets/images/proj-settings.png)
+![](../assets/images/proj-settings.png)
 
 {: .fs-6 }
 [Home](https://madteapartygames.github.io/the-gonzo-docs/){: .btn .btn-purple }
