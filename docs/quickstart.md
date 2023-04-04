@@ -16,6 +16,7 @@ nav_order: 2
 > 1. Locate the GonzoFX actor in the Content Browser
 > ![](../assets/images/actor-path.png) 
 > 1. Place a GonzoFX actor into a level
+> ![](../assets/images/actor-place.png) 
 > 1. Default settings will use a timer to always check for Gameplay Tags and setting changes for the various effects.
 > 1. Add Gameplay Tags from under **Gonzo.Effects** to apply the effects
 > 1. Individual settings can be found under the **Gonzo Effects** section of the GonzoFX actor.
