@@ -21,3 +21,6 @@ GonzoFX ia a plugin that is intended to allow for quick and easy post process ef
 ## Deep dive overview of GonzoFX
 {: .fs-6 }
 [The Gonzo Way](https://madteapartygames.github.io/the-gonzo-docs/docs/deepdive.html){: .btn .btn-purple }
+
+![](../assets/images/logo-1024.png)
+{: .v-align-middle }
