@@ -36,8 +36,19 @@ nav_order: 3
 >
 > - **Gonzo Update Rate**
 >
+> ![](../assets/images/update-rate.png)
+>
 >  GonzoFX utilizes a timer, specifically **FTimerManager::SetTimer**, to have a looping timer that will always be checking for updates. This setting determines how often the **UpdateGonzo** event will execute, to check for any effect and setting changes. The higher the value, the slower the **UpdateGonzo** event will execute. Default value of **0.1** gives as close to tick as needed. This setting will have no impact if **Gonzo.AlwaysOn** has been removed.
 >
->  ![](../assets/images/update-rate.png)
->
 >This is chosen over using tick to have an always on type of actor as it is designed to have more than one instance running. There is a chance that I might move this all over to its own async task, but with the option of being able to disable the timer and control this manually, the actor is already very performant.
+>
+> - **Volume Limits**
+>
+> ![](../assets/images/volume-limits.png)
+>
+> GonzoFX
+
+### Gonzo Effects: 
+{: .fs-4 }
+> - **Gonzo.Effects**
+>
