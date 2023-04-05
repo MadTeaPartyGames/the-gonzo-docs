@@ -4,7 +4,7 @@ title: The Gonzo Way
 nav_order: 3
 ---
 # GonzoFX Deep Dive
-{: .fs-9 }
+{: .fs-9 .fw-700 }
 [Home](https://madteapartygames.github.io/the-gonzo-docs/){: .btn .btn-purple }
 [Quick Start](https://madteapartygames.github.io/the-gonzo-docs/docs/quickstart.html){: .btn .btn-purple }
 [Recommends](https://madteapartygames.github.io/the-gonzo-docs/docs/recommends.html){: .btn .btn-purple }
@@ -12,10 +12,10 @@ nav_order: 3
 {: .fs-4 }
 
 ## A Deeper Look Into the GonzoFX Actor:
-{: .fs-7 }
+{: .fs-7 .fw-700 }
 
 ### From the Core: 
-{: .fs-5 }
+{: .fs-5 .fw-700 }
 > - **Gameplay Tags**
 >
 > GonzoFX utilizes Gameplay Tags to drive the main settings, and which effects it should apply. The Gameplay Tags utilized by GonzoFX are Native Gameplay Tags. Since they are all setup natively in C++, they will just showup in your project settings without needing to load any data tables or .ini's.
@@ -66,7 +66,7 @@ nav_order: 3
 
 
 ### Gonzo Effects: 
-{: .fs-5 }
+{: .fs-5 .fw-700 }
 > - **Blur**
 >
 > - **Custom Depth Outline**
@@ -107,4 +107,4 @@ nav_order: 3
 >
 
 ### Advanced Effects: 
-{: .fs-5 }
+{: .fs-5 .fw-700 }
