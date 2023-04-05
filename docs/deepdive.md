@@ -16,7 +16,7 @@ nav_order: 3
 
 ### From the Core: 
 {: .fs-4 }
-> - GameplayTags
+> - **Gameplay Tags**
 >
 > GonzoFX utilizes Gameplay Tags to drive the main settings, and which effects it should apply. The Gameplay Tags utilized by GonzoFX are Native Gameplay Tags. Since they are all setup natively in C++, they will just showup in your project settings without needing to load any data tables or .ini's.
 > 
@@ -34,3 +34,10 @@ nav_order: 3
 >
 > ![](../assets/images/tag-effects.png)
 >
+> - **Gonzo Update Rate**
+>
+>  GonzoFX utilizes a timer, specifically **FTimerManager::SetTimer**, to have a looping timer that will always be checking for updates. This setting determines how often the **UpdateGonzo** event will execute, to check for any effect and setting changes. The higher the value, the slower the **UpdateGonzo** event will execute. Default value of **0.1** gives as close to tick as needed. This setting will have no impact if **Gonzo.AlwaysOn** has been removed.
+>
+>  ![](../assets/images/update-rate.png)
+>
+>This is chosen over using tick to have an always on type of actor as it is designed to have more than one instance running. There is a chance that I might move this all over to its own async task, but with the option of being able to disable the timer and control this manually, the actor is already very performant.
