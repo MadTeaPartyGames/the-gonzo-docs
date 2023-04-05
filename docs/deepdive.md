@@ -23,9 +23,11 @@ nav_order: 3
 > ![](../assets/images/native-tags.png)
 > 
 > The main GonzoFX control setting tags are:
-> > 1. **AlwaysOn** - This is enabled by default. When enabled, GonzoFX will use a looping timer to check for tag and setting changes.
-> > 1. **Debug** - This is disabled by default. When enabled, GonzoFX will display various messages when functions are run, and effects applied.
-> > 1. **Enabled** - This is enabled by default. With this tag, GonzoFX can be easily turned _on_ and _off_.
-> > 1. **Unbound** - This is enabled by default. When enabled, GonzoFX post process effects will not be bound by the bounding box that is native to the actor. When disabled, GonzoFX post process effects will be confined to the limits of the bounding box.
+> > 1. **Gonzo.AlwaysOn** - This is enabled by default. When enabled, GonzoFX will use a looping timer to check for tag and setting changes.
+> > 1. **Gonzo.Debug** - This is disabled by default. When enabled, GonzoFX will display various messages when functions are run, and effects applied.
+> > 1. **Gonzo.Enabled** - This is enabled by default. With this tag, GonzoFX can be easily turned _on_ and _off_.
+> > 1. **Gonzo.Unbound** - This is enabled by default. When enabled, GonzoFX post process effects will not be bound by the bounding box that is native to the actor. When disabled, GonzoFX post process effects will be confined to the limits of the bounding box.
+> 
+> ![](../assets/images/tags-defaults.png)
 >
 > The **Gonzo.Effects** tags are what will determine which post process effects to apply.
