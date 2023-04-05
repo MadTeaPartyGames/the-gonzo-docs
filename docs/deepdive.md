@@ -28,6 +28,6 @@ nav_order: 3
 > > 1. **Gonzo.Enabled** - This is enabled by default. With this tag, GonzoFX can be easily turned _on_ and _off_.
 > > 1. **Gonzo.Unbound** - This is enabled by default. When enabled, GonzoFX post process effects will not be bound by the bounding box that is native to the actor. When disabled, GonzoFX post process effects will be confined to the limits of the bounding box.
 > 
-> ![](../assets/images/tags-defaults.png)
+> ![](../assets/images/tag-defaults.png)
 >
 > The **Gonzo.Effects** tags are what will determine which post process effects to apply.
