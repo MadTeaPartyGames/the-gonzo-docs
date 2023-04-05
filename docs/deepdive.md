@@ -4,7 +4,7 @@ title: The Gonzo Way
 nav_order: 3
 ---
 # GonzoFX Deep Dive
-{: .fs-9 .fw-700 .text-purple-000 }
+{: .fs-9 .fw-700 .text-purple-100 }
 [Home](https://madteapartygames.github.io/the-gonzo-docs/){: .btn .btn-purple }
 [Quick Start](https://madteapartygames.github.io/the-gonzo-docs/docs/quickstart.html){: .btn .btn-purple }
 [Recommends](https://madteapartygames.github.io/the-gonzo-docs/docs/recommends.html){: .btn .btn-purple }
@@ -12,10 +12,10 @@ nav_order: 3
 {: .fs-4 }
 
 ## A Deeper Look Into the GonzoFX Actor:
-{: .fs-7 .fw-700 .text-purple-000 }
+{: .fs-7 .fw-700 .text-purple-100 }
 
 ### From the Core: 
-{: .fs-5 .fw-700 .text-purple-000 }
+{: .fs-5 .fw-700 .text-purple-100 }
 
 > - **Gameplay Tags**
 >
@@ -67,7 +67,7 @@ nav_order: 3
 
 
 ### Gonzo Effects: 
-{: .fs-5 .fw-700 .text-purple-000 }
+{: .fs-5 .fw-700 .text-purple-100 }
 > - **Blur**
 >
 > - **Custom Depth Outline**
@@ -108,4 +108,4 @@ nav_order: 3
 >
 
 ### Advanced Effects: 
-{: .fs-5 .fw-700 .text-purple-000 }
+{: .fs-5 .fw-700 .text-purple-100 }
