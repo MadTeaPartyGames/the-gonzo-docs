@@ -4,13 +4,13 @@ title: Quick Start
 nav_order: 2
 ---
 # GonzoFX Quick Start
-{: .fs-9 }
+{: .fs-9 .fw-700 .text-purple-000 }
 [Home](https://madteapartygames.github.io/the-gonzo-docs/){: .btn .btn-purple }
 [The Gonzo Way](https://madteapartygames.github.io/the-gonzo-docs/docs/deepdive.html){: .btn .btn-purple }
 [Recommends](https://madteapartygames.github.io/the-gonzo-docs/docs/recommends.html){: .btn .btn-purple }
 
 ## Quick Start Steps:
-{: .fs-6 }
+{: .fs-7 .fw-700 .text-purple-000 }
 > - In the Content Browser, enable the setting to show plugin-content
 > 
 > ![](../assets/images/browser-settings.png)
@@ -31,7 +31,7 @@ nav_order: 2
 > ![](../assets/images/fx-settings.png) 
 
 ## **Important Information:**
-{: .fs-6 }
+{: .fs-7 .fw-700 .text-yellow-300 }
 > - **StencilMask** and **StencilBuffer** settings found under the effect's Advanced Settings requires the project setting **Custom Depth-Stencil Pass** set to **Enabled with Stencil**
 > 
 > ![](../assets/images/proj-settings.png)

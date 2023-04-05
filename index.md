@@ -7,12 +7,12 @@ permalink: /
 ---
 
 # GonzoFX Plugin Documentation
-{: .fs-10 }
+{: .fs-10 .fw-700 .text-purple-000 }
 ### The Edge... there is no honest way to explain it because the only people who really know where it is are the ones who have gone over.
 {: .fs-4 }
 
 ## Introduction:
-{: .fs-6 }
+{: .fs-6 .fw-700 .text-purple-000 }
 
 >
 > 1. Make a post process actor to apply trippy effects
@@ -29,15 +29,15 @@ Follow the links below to begin your journey to the edge and back again.
 _It never got weird enough for me_.
 
 ## Zero to Gonzo in seconds!
-{: .fs-6 }
+{: .fs-6 .fw-700 .text-purple-000 }
 [Quick Start](https://madteapartygames.github.io/the-gonzo-docs/docs/quickstart.html){: .btn .btn-purple }
 
 ## Deep dive overview of GonzoFX
-{: .fs-6 }
+{: .fs-6 .fw-700 .text-purple-000 }
 [The Gonzo Way](https://madteapartygames.github.io/the-gonzo-docs/docs/deepdive.html){: .btn .btn-purple }
 
 ## Marketplace Recommendations
-{: .fs-6 }
+{: .fs-6 .fw-700 .text-purple-000 }
 [Recommends](https://madteapartygames.github.io/the-gonzo-docs/docs/recommends.html){: .btn .btn-purple }
 
 ![](assets/images/logo-1024.png)

@@ -16,6 +16,7 @@ nav_order: 3
 
 ### From the Core: 
 {: .fs-5 .fw-700 .text-purple-000 }
+
 > - **Gameplay Tags**
 >
 > GonzoFX utilizes Gameplay Tags to drive the main settings, and which effects it should apply. The Gameplay Tags utilized by GonzoFX are Native Gameplay Tags. Since they are all setup natively in C++, they will just showup in your project settings without needing to load any data tables or .ini's.
