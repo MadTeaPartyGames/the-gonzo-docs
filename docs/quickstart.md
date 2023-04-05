@@ -4,13 +4,13 @@ title: Quick Start
 nav_order: 2
 ---
 # GonzoFX Quick Start
-{: .fs-9 .fw-700 .text-purple-100 }
+{: .fs-9 .fw-700 .text-grey-lt-300 }
 [Home](https://madteapartygames.github.io/the-gonzo-docs/){: .btn .btn-purple }
 [The Gonzo Way](https://madteapartygames.github.io/the-gonzo-docs/docs/deepdive.html){: .btn .btn-purple }
 [Recommends](https://madteapartygames.github.io/the-gonzo-docs/docs/recommends.html){: .btn .btn-purple }
 
 ## Quick Start Steps:
-{: .fs-7 .fw-700 .text-purple-100 }
+{: .fs-7 .fw-700 .text-grey-lt-300 }
 > - In the Content Browser, enable the setting to show plugin-content
 > 
 > ![](../assets/images/browser-settings.png)

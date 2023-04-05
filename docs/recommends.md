@@ -4,13 +4,13 @@ title: Marketplace Recommendations
 nav_order: 4
 ---
 # My Marketplace Recommendations
-{: .fs-9 .fw-700 .text-purple-100 }
+{: .fs-9 .fw-700 .text-grey-lt-300 }
 [Home](https://madteapartygames.github.io/the-gonzo-docs/){: .btn .btn-purple }
 [Quick Start](https://madteapartygames.github.io/the-gonzo-docs/docs/quickstart.html){: .btn .btn-purple }
 [The Gonzo Way](https://madteapartygames.github.io/the-gonzo-docs/docs/deepdive.html){: .btn .btn-purple }
 
 ## Current Recommendations:
-{: .fs-7 .fw-700 .text-purple-100 }
+{: .fs-7 .fw-700 .text-grey-lt-300 }
 These are plugins that I currently use, and many of them I could not imagine working without. 
 
 ### GAS Companion:
