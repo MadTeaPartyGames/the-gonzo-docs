@@ -20,7 +20,8 @@ nav_order: 3
 >
 > GonzoFX utilizes Gameplay Tags to drive the main settings, and which effects it should apply. The Gameplay Tags utilized by GonzoFX are Native Gameplay Tags. Since they are all setup natively in C++, they will just showup in your project settings without needing to load any data tables or .ini's.
 > 
-> ![](../assets/images/native-tags.png) 
+> ![](../assets/images/native-tags.png)
+> 
 > The main GonzoFX control setting tags are:
 > > 1. AlwaysOn - 
 > > 1. Debug - 
