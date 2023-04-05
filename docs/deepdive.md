@@ -46,7 +46,22 @@ nav_order: 3
 >
 > ![](../assets/images/volume-limits.png)
 >
-> GonzoFX
+> GonzoFX, by default, will have the **Gonzo.Unbound** tag applied, making it a global post process effect. With this tag, this setting will have no impact. If the **Gonzo.Unbound** tag is removed, then this setting will determine the bounding box limits making it a local post process effect when the camera is within the **Volume Limits**.
+>
+> - **Native Post Process**
+>
+> ![](../assets/images/native-post-process.png)
+>
+> GonzoFX exposes access to the native post process settings via the struct FPostProcessSettings. I am not going to detail what each individual setting does, as these are native to the engine, but have been exposed for expanding the capabilities of GonzoFX and allow for further user customization of effects.
+>
+>
+> - **Gonzo Effects**
+>
+> ![](../assets/images/gonzo-effects.png)
+>
+> GonzoFX's main purpose is to provide custom post process effects. These are the individual settings for each effect that can be applied to a GonzoFX actor by applying the corresponding tag from **Gonzo.Effects**. These will be detailed further in the section below.
+> 
+
 
 ### Gonzo Effects: 
 {: .fs-4 }
