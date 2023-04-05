@@ -48,6 +48,8 @@ nav_order: 3
 >
 > GonzoFX, by default, will have the **Gonzo.Unbound** tag applied, making it a global post process effect. With this tag, this setting will have no impact. If the **Gonzo.Unbound** tag is removed, then this setting will determine the bounding box limits making it a local post process effect when the camera is within the **Volume Limits**.
 >
+> ![](../assets/images/volume-limits-2.png)
+>
 > - **Native Post Process**
 >
 > ![](../assets/images/native-post-process.png)
