@@ -105,3 +105,6 @@ nav_order: 3
 >
 > - **World Glitch**
 >
+
+### Advanced Effects: 
+{: .fs-4 }
