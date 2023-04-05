@@ -38,9 +38,9 @@ nav_order: 2
 > - The timer can be disabled by removing **Gonzo.AlwaysOn** or setting **Gonzo Update Rate** to **0.0**
 >
 > ![](../assets/images/actor-defaults.png) 
-> - If **Gonzo.AlwaysOn** is removed, or **Gonzo Update Rate** set to **0.0**, settings and effects can be manually applied by calling the function **UpdateGonzo**, which is exposed to Blueprint.
+> - If **Gonzo.AlwaysOn** is removed, or **Gonzo Update Rate** set to **0.0**, settings and effects can be manually applied by calling the function **GonzoUpdate**, which is exposed to Blueprint.
 > 
-> ![](../assets/images/update-gonzo.png)
+> ![](../assets/images/gonzo-update.png)
 > - There are also helper functions exposed to Blueprint for starting and stopping the timer if manual control is desired, or things like temporary effects. These would be **GonzoStart** and **GonzoStop**. If using **GonzoStart**, ensure you add **Gonzo.AlwaysOn** as well as setting **Gonzo Update Rate** to a value greater than **0.0**, like the default of **0.1**
 >
 > ![](../assets/images/gonzo-start-stop.png)

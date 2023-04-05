@@ -38,7 +38,7 @@ nav_order: 3
 >
 > ![](../assets/images/update-rate.png)
 >
->  GonzoFX utilizes a timer, specifically **FTimerManager::SetTimer**, to have a looping timer that will always be checking for updates. This setting determines how often the **UpdateGonzo** event will execute, to check for any effect and setting changes. The higher the value, the slower the **UpdateGonzo** event will execute. Default value of **0.1** gives as close to tick as needed. This setting will have no impact if **Gonzo.AlwaysOn** has been removed.
+>  GonzoFX utilizes a timer, specifically **FTimerManager::SetTimer**, to have a looping timer that will always be checking for updates. This setting determines how often the **GonzoUpdate** event will execute, to check for any effect and setting changes. The higher the value, the slower the **GonzoUpdate** event will execute. Default value of **0.1** gives as close to tick as needed. This setting will have no impact if **Gonzo.AlwaysOn** has been removed.
 >
 >This is chosen over using tick to have an always on type of actor as it is designed to have more than one instance running. There is a chance that I might move this all over to its own async task, but with the option of being able to disable the timer and control this manually, the actor is already very performant.
 >
@@ -54,7 +54,7 @@ nav_order: 3
 >
 > ![](../assets/images/native-post-process.png)
 >
-> GonzoFX exposes access to the native post process settings via the struct FPostProcessSettings. I am not going to detail what each individual setting does, as these are native to the engine, but have been exposed for expanding the capabilities of GonzoFX and allow for further user customization of effects.
+> GonzoFX exposes access to the native post process settings via the struct **FPostProcessSettings**. I am not going to detail what each individual setting does, as these are native to the engine, but have been exposed for expanding the capabilities of GonzoFX and allow for further user customization of effects. For more details you can look at the Unreal documentation for **FPostProcessSettings**.
 >
 >
 > - **Gonzo Effects**
@@ -67,5 +67,41 @@ nav_order: 3
 
 ### Gonzo Effects: 
 {: .fs-4 }
-> - **Gonzo.Effects**
+> - **Blur**
+>
+> - **Custom Depth Outline**
+>
+> - **Distance Fog**
+>
+> - **Drugs**
+>
+> - **Drunk**
+>
+> - **Glitch**
+>
+> - **Gradient Fog**
+>
+> - **Hue Panner**
+>
+> - **Invert**
+>
+> - **Iridescent**
+>
+> - **Kaleidoscope**
+>
+> - **Letterbox**
+>
+> - **Liquify**
+>
+> - **Party Lights**
+>
+> - **Pyramid**
+>
+> - **Radial Blur**
+>
+> - **Retro**
+>
+> - **Tiles**
+>
+> - **World Glitch**
 >
