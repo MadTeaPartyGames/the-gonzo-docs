@@ -81,7 +81,7 @@ nav_order: 3
 > 
 > - **Custom Depth Outline**
 > 
-> > ![](../assets/images/fx-blur.png)
+> > ![](../assets/images/fx-cdo.png)
 >
 >  Adding the tag **Gonzo.Effects.CustomDepthOutline** will apply a depth outline effect to any actor with **Render CustomDepth Pass** enabled (checked). It has the following settings available.
 >
