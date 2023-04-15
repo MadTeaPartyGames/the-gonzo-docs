@@ -42,3 +42,9 @@ These are plugins that I currently use, and many of them I could not imagine wor
 [ENodes](https://www.unrealengine.com/marketplace/en-US/product/electronic-nodes){: .btn .btn-purple }
 
 >Purely visual, but once you get rid of the mushy spaghetti, there is no going back. If you don't have this, buy it today or wait for a sale if you really must. This is also something that should be standard in the engine at this point. 
+
+### Flat Nodes:
+{: .fs-5 .fw-700 }
+[FNodes](https://www.unrealengine.com/marketplace/en-US/product/flat-nodes){: .btn .btn-purple }
+
+>Purely visual, but I much prefer the flatter more modern look to the nodes, and it's free!
