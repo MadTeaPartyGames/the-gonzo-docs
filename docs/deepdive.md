@@ -110,6 +110,8 @@ nav_order: 3
 > > 1. **Dist Fog Sharpness** - This will control the sharpness between the near and far fogs.The lower the value the more the **Dist Fog Far Color** will take over.  
 > 
 > - **Drugs**
+> 
+> > ![](../assets/gifs/fx-drugs.gif)
 >
 > - **Drunk**
 >
