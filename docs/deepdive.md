@@ -92,9 +92,9 @@ nav_order: 3
 > > 1. **Custom Depth Outline Alpha** - This will control the opacity for the outline effect. The higher the value the more intense the effect will be, with it blending into the outline edge.
 > > 1. **Custom Depth Outline Xray** - This will control if the effect can be seen even if the actor is obfuscated by another actor (behind walls).
 > > ![](../assets/images/cdo-xray.png)
-> > 1. **Custom Depth Outline Speed** - This will control 
-> > 1. **Custom Depth Outline Pulse** - This will control 
-> > 1. **Custom Depth Outline Max Z** - This will control 
+> > 1. **Custom Depth Outline Speed** - This will control the rate at which the animation will play if **Custom Depth Outline Pulse** is enabled (checked). The higher the value the slower the pulse.
+> > 1. **Custom Depth Outline Pulse** - This will control if the pulse animation is played on the custom depth outline material.
+> > 1. **Custom Depth Outline Max Z** - This will control the max distance the effect will be rendered. The lower the value the closer the limit will be towards the camera.
 > 
 > - **Distance Fog**
 >
