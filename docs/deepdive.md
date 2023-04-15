@@ -98,6 +98,17 @@ nav_order: 3
 > 
 > - **Distance Fog**
 >
+> > ![](../assets/images/fx-distfog.png)
+> 
+> Adding the tag **Gonzo.Effects.DistFog** will apply a distance fog effect. It has the following settings available.
+>
+> ![](../assets/images/distfog-settings.png)
+> 
+> > 1. **Dist Fog Near Color** - This will control the color of the fog closest to the camera.
+> > 1. **Dist Fog Far Color** - This will control the color of the fog farthest from the camera.
+> > 1. **Dist Fog Distance** - This will control how close the fog is to the camera. The higher the value the further out the fog will be. 
+> > 1. **Dist Fog Sharpness** - This will control the sharpness between the near and far fogs.The lower the value the more the **Dist Fog Far Color** will take over.  
+> 
 > - **Drugs**
 >
 > - **Drunk**
