@@ -86,6 +86,15 @@ nav_order: 3
 >  Adding the tag **Gonzo.Effects.CustomDepthOutline** will apply a depth outline effect to any actor with **Render CustomDepth Pass** enabled (checked). It has the following settings available.
 >
 > ![](../assets/images/cdo-settings.png)
+>
+> > 1. **Custom Depth Outline Color** - This will control the color of the outline applied to the actors.
+> > 1. **Outline Thickness** - This will control how thick the outline edge is. The higher the value the thicker the outline edge. Setting to 0 will remove the outline edge.
+> > 1. **Custom Depth Outline Alpha** - This will control the opacity for the outline effect. The higher the value the more intense the effect will be, with it blending into the outline edge.
+> > 1. **Custom Depth Outline Xray** - This will control if the effect can be seen even if the actor is obfuscated by another actor (behind walls).
+> > ![](../assets/images/cdo-xray.png)
+> > 1. **Custom Depth Outline Speed** - This will control 
+> > 1. **Custom Depth Outline Pulse** - This will control 
+> > 1. **Custom Depth Outline Max Z** - This will control 
 > 
 > - **Distance Fog**
 >
