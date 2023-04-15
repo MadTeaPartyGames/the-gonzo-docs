@@ -80,7 +80,13 @@ nav_order: 3
 > > 1. **Blur Amount** - This will control the scale at which the blur is applied to the screen, and is part of the HLSL used for the Blur material. The higher the value, the more the Blur will scale across the screen.  
 > 
 > - **Custom Depth Outline**
+> 
+> > ![](../assets/images/fx-blur.png)
 >
+>  Adding the tag **Gonzo.Effects.CustomDepthOutline** will apply a depth outline effect to any actor with **Render CustomDepth Pass** enabled (checked). It has the following settings available.
+>
+> ![](../assets/images/cdo-settings.png)
+> 
 > - **Distance Fog**
 >
 > - **Drugs**
