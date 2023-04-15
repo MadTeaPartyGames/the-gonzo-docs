@@ -121,7 +121,9 @@ nav_order: 3
 > > 1. **Drugs Speed** - This will control the rate at which the drugs effect will play. The higher the value the faster the effect will play.
 > 
 > - **Drunk**
->
+> 
+> > ![](../assets/gifs/fx-drunk.gif)
+> 
 > - **Glitch**
 >
 > - **Gradient Fog**
