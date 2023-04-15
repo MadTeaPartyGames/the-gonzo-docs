@@ -70,6 +70,8 @@ nav_order: 3
 {: .fs-5 .fw-700 }
 > - **Blur**
 >
+> ![](../assets/images/fx-blur.png)
+>
 > - **Custom Depth Outline**
 >
 > - **Distance Fog**
