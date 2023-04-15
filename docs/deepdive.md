@@ -113,7 +113,13 @@ nav_order: 3
 > - **Drugs**
 > 
 > > ![](../assets/gifs/fx-drugs.gif)
+> 
+> Adding the tag **Gonzo.Effects.Drugs** will apply a drug like effect. It has the following settings available.
 >
+> ![](../assets/images/drugs-settings.png)
+> 
+> > 1. **Drugs Speed** - This will control the rate at which the drugs effect will play. The higher the value the faster the effect will play.
+> 
 > - **Drunk**
 >
 > - **Glitch**
