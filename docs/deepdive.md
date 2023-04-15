@@ -94,6 +94,7 @@ nav_order: 3
 > > ![](../assets/images/cdo-xray.png)
 > > 1. **Custom Depth Outline Speed** - This will control the rate at which the animation will play if **Custom Depth Outline Pulse** is enabled (checked). The higher the value the slower the pulse.
 > > 1. **Custom Depth Outline Pulse** - This will control if the pulse animation is played on the custom depth outline material.
+>  > ![](../assets/gifs/cdo-pulse.gif)
 > > 1. **Custom Depth Outline Max Z** - This will control the max distance the effect will be rendered. The lower the value the closer the limit will be towards the camera.
 > 
 > - **Distance Fog**
