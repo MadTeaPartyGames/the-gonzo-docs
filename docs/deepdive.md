@@ -72,6 +72,13 @@ nav_order: 3
 >
 > ![](../assets/images/fx-blur.png)
 >
+> Adding the tag **Gonzo.Effects.Blur** will apply a standard blur effect. It has the following settings available.
+>
+> ![](../assets/images/blur-settings.png)
+>
+> > 1. **Blur Samples** - This will control how many samples are applied to the blur effect. The higher the value, the blurrier the image will be. 
+> > 1. **Blur Amount** - This will control the scale at which the blur is applied to the screen, and is part of the HLSL used for the Blur material. The higher the value, the more the Blur will scale across the screen.  
+> 
 > - **Custom Depth Outline**
 >
 > - **Distance Fog**
