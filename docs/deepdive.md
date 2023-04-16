@@ -148,6 +148,12 @@ nav_order: 3
 > 
 > - **Gradient Fog**
 >
+> > ![](../assets/images/fx-gradientfog.png)
+>
+> Adding the tag **Gonzo.Effects.GradientFog** will apply a color based gradient fog effect. It has the following settings available.
+>
+> ![](../assets/images/gradientfog-settings.png)
+> 
 > - **Hue Panner**
 >
 > - **Invert**
