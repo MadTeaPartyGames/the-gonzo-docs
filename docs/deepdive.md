@@ -160,6 +160,12 @@ nav_order: 3
 > 
 > - **Hue Panner**
 >
+> > ![](../assets/gifs/fx-huepan.gif)
+>
+> Adding the tag **Gonzo.Effects.HuePanner** will apply an animated hue panner (color shift) effect. It has the following settings available.
+>
+> ![](../assets/images/huepan-settings.png)
+> 
 > - **Invert**
 >
 > - **Iridescent**
