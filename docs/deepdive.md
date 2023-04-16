@@ -153,6 +153,10 @@ nav_order: 3
 > Adding the tag **Gonzo.Effects.GradientFog** will apply a color based gradient fog effect. It has the following settings available.
 >
 > ![](../assets/images/gradientfog-settings.png)
+>
+> > 1. **Gradient Fog Color** - This is an array of FColors that will be used for the gradient fog.
+> > 1. **Gradient Fog Distance** - This will control the distance at which the gradient fog is rendered in relation to the camera. Default of 0 will start the fog (color index 0) at the camera location.
+> > 1. **Gradient Fog Sharpness** - This will control the sharpness of the gradient. The higher the value the sharper the gradient (the closer the colors will be to each other).
 > 
 > - **Hue Panner**
 >
