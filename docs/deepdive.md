@@ -124,6 +124,13 @@ nav_order: 3
 > 
 > > ![](../assets/gifs/fx-drunk.gif)
 > 
+> Adding the tag **Gonzo.Effects.Drunk** will apply a drunk like effect. It has the following settings available.
+> 
+> ![](../assets/images/drunk-settings.png)
+>
+> > 1. **Drunk Speed** - This will control the rate at which the drug effect will play. The higher the value the faster the effect will play.
+> > 1. **Drunk Offset** - This will control how much the image is offset during the animation. The higher the positive or lower the negative the larger the offset.
+> 
 > - **Glitch**
 >
 > - **Gradient Fog**
