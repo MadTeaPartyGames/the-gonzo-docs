@@ -138,6 +138,13 @@ nav_order: 3
 > Adding the tag **Gonzo.Effects.Glitch** will apply a glitchy effect. It has the following settings available.
 >
 > ![](../assets/images/glitch-settings.png)
+>
+> > 1. **Glitch Speed** - This will control the rate at which the glitch effect will play. The higher the value the faster the effect will play.
+> > 1. **Glitch Density** - This will control how tight the wavy effect is on the edges of the glitches. The higher the value the tighter and smaller the waves will be.
+> > 1. **Glitch Blocking** - This will control how glitchy the image is. The higher the value will cause larger glitch blocks.
+> > 1. **Glitch Grid Distort Pow** - This will control the overall fuzziness of the glitch. The higher the value the fuzzier the grid distortion will be.
+> > 1. **Glitch Grid Distort Size** - This will control the size of the grid distortion. The lower the value the larger the pixel like effect will be.
+> > 1. **Glitch Grid Distort Speed** - This will control the rate at which the grid distortion will play. The higher the value the faster gird distortion will shift.
 > 
 > - **Gradient Fog**
 >
