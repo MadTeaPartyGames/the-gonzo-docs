@@ -195,6 +195,11 @@ nav_order: 3
 >
 > - **World Glitch**
 >
+> > ![](../assets/gifs/fx-worldglitch.gif)
+>
+> Adding the tag **Gonzo.Effects.WorldGlitch** will apply a glitchy effect to all of the objects in the world. It has the following settings available.
+>
+> ![](../assets/images/worldglitch-settings.png)
 
 ### Advanced Effects: 
 {: .fs-5 .fw-700 }
