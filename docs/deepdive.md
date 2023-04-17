@@ -192,6 +192,11 @@ nav_order: 3
 > Adding the tag **Gonzo.Effects.Kaleidoscope** will split the screen in segments and arrange them in a kaleidoscope like effect. It has the following settings available.
 >
 > ![](../assets/images/kaleidoscope-settings.png)
+>
+> > 1. **Amount** - This value controls how many segments there are in the kaleidoscope effect.
+> > 1. **Distortion** - This value controls how distorted the effect will be. The higher the value the more lens like the effect will be.
+> > 1. **Warp** - This value controls warped each segment will be.
+> > 1. **FMul** - This value controls the float multiply used in the material for this effect. The higher the value the further from the camera the effect will be.
 > 
 > - **Letterbox**
 >
