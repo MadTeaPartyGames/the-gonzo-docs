@@ -200,6 +200,17 @@ nav_order: 3
 > 
 > - **Letterbox**
 >
+> ![](../assets/images/fx-letterbox.png)
+>
+> Adding the tag **Gonzo.Effects.Letterbox** will add a letter box effect for a more cinematic look. It has the following settings available.
+>
+> ![](../assets/images/letterbox-settings.png)
+> 
+> > 1. **Letterbox Texture** - This is the texture that will be used for the borders of the letterbox effect.
+> > 1. **Letterbox Size** - This value controls the size of the borders of the letterbox effect.The larger the value the larger the border.
+> > 1. **Horizontal** - This value controls if the letterbox effect is displayed horizontally.
+> > 1. **Vertical** - This value controls if the letterbox effect is displayed vertically.
+> 
 > - **Liquify**
 >
 > - **Party Lights**
