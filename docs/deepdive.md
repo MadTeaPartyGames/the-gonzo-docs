@@ -165,6 +165,9 @@ nav_order: 3
 > Adding the tag **Gonzo.Effects.HuePanner** will apply an animated hue panner (color shift) effect. It has the following settings available.
 >
 > ![](../assets/images/huepan-settings.png)
+>
+> > 1. **Hue Panner Phase** - This value controls the A input of the lerp that is used to drive the hue shift, basically the starting point. Changing this value will really have no visual impact, and will probably not be exposed in a future update.
+> > 1. **Hue Panner Speed** - This value controls the the rate at which the glitch effect will play. The higher the value the faster the effect will play.
 > 
 > - **Invert**
 >
