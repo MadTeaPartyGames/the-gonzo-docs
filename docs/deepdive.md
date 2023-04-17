@@ -213,6 +213,15 @@ nav_order: 3
 > 
 > - **Liquify**
 >
+> ![](../assets/images/fx-letterbox.png)
+>
+> Adding the tag **Gonzo.Effects.Liquify** will add a liquify "filter" to give the world a melted look. It has the following settings available.
+>
+> ![](../assets/images/liquify-settings.png)
+>
+> > 1. **Liquify Size** - This will control the size of liquify effect in the x,y,and z directions. The higher the value the tighter the waves will be.
+> > 1. **Liquify Distance** - This will control the size of liquify effect in the x,y,and z directions. The higher the value the tighter the waves will be.
+> 
 > - **Party Lights**
 >
 > - **Pyramid**
