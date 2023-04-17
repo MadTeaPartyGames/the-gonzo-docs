@@ -177,6 +177,14 @@ nav_order: 3
 > 
 > - **Iridescent**
 >
+>  ![](../assets/images/fx-iridescent.png)
+>
+> Adding the tag **Gonzo.Effects.Iridescent** will apply an iridescence like effect. It has the following settings available.
+>
+> ![](../assets/images/iridescent-settings.png)
+>
+> > 1. **Iridescence** - This value controls the scale of the iridescent effect.
+> 
 > - **Kaleidoscope**
 >
 > - **Letterbox**
