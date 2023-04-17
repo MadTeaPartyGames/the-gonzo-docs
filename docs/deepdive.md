@@ -213,7 +213,7 @@ nav_order: 3
 > 
 > - **Liquify**
 >
-> ![](../assets/images/fx-letterbox.png)
+> ![](../assets/images/fx-liquify.png)
 >
 > Adding the tag **Gonzo.Effects.Liquify** will add a liquify "filter" to give the world a melted look. It has the following settings available.
 >
