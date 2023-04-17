@@ -171,6 +171,10 @@ nav_order: 3
 > 
 > - **Invert**
 >
+> > ![](../assets/images/fx-invert.png)
+> 
+> Adding the tag **Gonzo.Effects.Invert** will invert the colors of the image on screen. It only has **Advanced Effects** for additional settings.
+> 
 > - **Iridescent**
 >
 > - **Kaleidoscope**
