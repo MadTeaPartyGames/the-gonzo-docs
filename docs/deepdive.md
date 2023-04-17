@@ -187,6 +187,12 @@ nav_order: 3
 > 
 > - **Kaleidoscope**
 >
+> ![](../assets/images/fx-kaleidoscope.png)
+>
+> Adding the tag **Gonzo.Effects.Kaleidoscope** will split the screen in segments and arrange them in a kaleidoscope like effect. It has the following settings available.
+>
+> ![](../assets/images/kaleidoscope-settings.png)
+> 
 > - **Letterbox**
 >
 > - **Liquify**
