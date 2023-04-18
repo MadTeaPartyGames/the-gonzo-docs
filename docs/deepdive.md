@@ -241,6 +241,17 @@ nav_order: 3
 > 
 > - **Pyramid**
 >
+> ![](../assets/images/fx-pyramid.png)
+>
+> Adding the tag **Gonzo.Effects.Pyramid** will give the image a mirrored pyramid like effect. It has the following settings available.
+>
+> ![](../assets/images/pyramid-settings.png)
+>
+> > 1. **Pyramid Masked** - This will control if the borders of the image are masked or not.
+> > 1. **Pyramid Background Color** - This is the color that is used if **Pyramid Masked** is enabled (checked).
+> > 1. **Pyramid Width** - This value will control how wide, as well as tall, the central pyramid is.
+> > 1. **Pyramid Tile Amount** - This value will control how many pyramid tiles will be rendered. If **Pyramid Masked** is enabled (checked), this will make the pyramid narrower. 
+> 
 > - **Radial Blur**
 >
 > - **Retro**
