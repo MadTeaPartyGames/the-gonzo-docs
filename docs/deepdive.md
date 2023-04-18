@@ -72,11 +72,11 @@ nav_order: 3
 >
 > ![](../assets/images/fx-blur.png)
 >
-> Adding the tag **Gonzo.Effects.Blur** will apply a standard blur effect. It has the following settings available.
+> Adding the tag **Gonzo.Effects.Blur** will apply a standard Blur effect. It has the following settings available.
 >
 > ![](../assets/images/blur-settings.png)
 >
-> > 1. **Blur Samples** - This will control how many samples are applied to the blur effect. The higher the value, the blurrier the image will be. 
+> > 1. **Blur Samples** - This will control how many samples are applied to the Blur effect. The higher the value, the blurrier the image will be. 
 > > 1. **Blur Amount** - This will control the scale at which the blur is applied to the screen, and is part of the HLSL used for the Blur material. The higher the value, the more the Blur will scale across the screen.  
 > 
 > - **Custom Depth Outline**
@@ -254,6 +254,13 @@ nav_order: 3
 > 
 > - **Radial Blur**
 >
+>  ![](../assets/images/fx-rblur.png)
+>
+> > 1. **Radial Blur Width** - This value controls the distance between samples. The higher the value the larger the distance between samples. Negative values will invert the Radial Blur. 
+> > 1. **Radial Blur Samples** - This will control how many samples are applied to the Radial Blur effect. The higher the value, the blurrier the image will be.
+> > 1. **Radial Blur Center** - This will control the position (x,y) where the Radial Blur's center is to control the direction of the blur.
+> > 1. **Radial Blur Sample Offset** - This will control offsetting each sample's location (x,y) giving further control to distort the image.
+> 
 > - **Retro**
 >
 > - **Tiles**
