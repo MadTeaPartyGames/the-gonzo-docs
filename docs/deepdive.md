@@ -226,6 +226,12 @@ nav_order: 3
 > 
 > - **Party Lights**
 >
+> > ![](../assets/gifs/fx-party.gif)
+>
+> Adding the tag **Gonzo.Effects.PartyLights** will add an animated set of colored lights. It has the following settings available.
+>
+> ![](../assets/images/party-settings.png)
+> 
 > - **Pyramid**
 >
 > - **Radial Blur**
