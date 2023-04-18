@@ -221,6 +221,8 @@ nav_order: 3
 >
 > > 1. **Liquify Size** - This will control the size of liquify effect in the x,y,and z directions. The higher the value the tighter the waves will be.
 > > 1. **Liquify Distance** - This will control the size of liquify effect in the x,y,and z directions. The higher the value the tighter the waves will be.
+> > 1. **Liquify Power** - This value controls the strength of liquify effect . The higher the value the image will have a more melted effect.
+> > 1. **Liquify Sharpness** - This value controls the sharpness of liquify effect. The lower the value the less intense the effect will be.
 > 
 > - **Party Lights**
 >
