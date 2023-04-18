@@ -219,10 +219,10 @@ nav_order: 3
 >
 > ![](../assets/images/liquify-settings.png)
 >
-> > 1. **Liquify Size** - This will control the size of liquify effect in the x,y,and z directions. The higher the value the tighter the waves will be.
-> > 1. **Liquify Distance** - This will control the size of liquify effect in the x,y,and z directions. The higher the value the tighter the waves will be.
-> > 1. **Liquify Power** - This value controls the strength of liquify effect . The higher the value the image will have a more melted effect.
-> > 1. **Liquify Sharpness** - This value controls the sharpness of liquify effect. The lower the value the less intense the effect will be.
+> > 1. **Liquify Size** - This will control the size of the liquify effect in the x,y,and z directions. The higher the value the tighter the waves will be.
+> > 1. **Liquify Distance** - This will control the size of the liquify effect in the x,y,and z directions. The higher the value the tighter the waves will be.
+> > 1. **Liquify Power** - This value controls the strength of the liquify effect . The higher the value the image will have a more melted effect.
+> > 1. **Liquify Sharpness** - This value controls the sharpness of the liquify effect. The lower the value the less intense the effect will be.
 > 
 > - **Party Lights**
 >
@@ -231,6 +231,13 @@ nav_order: 3
 > Adding the tag **Gonzo.Effects.PartyLights** will add an animated set of colored lights. It has the following settings available.
 >
 > ![](../assets/images/party-settings.png)
+>
+> > 1. **Party Lights Color 1** - This is one of the colors used for the Party Lights effect.
+> > 1. **Party Lights Color 2** - This is one of the colors used for the Party Lights effect.
+> > 1. **Party Lights Color 3** - This is one of the colors used for the Party Lights effect.
+> > 1. **Party Lights Color 4** - This is one of the colors used for the Party Lights effect.
+> > 1. **Party Lights Pos** - This controls the position of the grid used for the Party Lights effect.
+> > 1. **Party Lights Speed** - This controls the size of the grid used for the Party Lights effect. The higher the value the faster the lights will pan in that direction.
 > 
 > - **Pyramid**
 >
