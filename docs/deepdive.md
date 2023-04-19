@@ -256,13 +256,26 @@ nav_order: 3
 >
 >  ![](../assets/images/fx-rblur.png)
 >
+> Adding the tag **Gonzo.Effects.RadialBlur** will apply a Radial Blur effect. It has the following settings available.
+> 
+> ![](../assets/images/rblur-settings.png)
+> 
 > > 1. **Radial Blur Width** - This value controls the distance between samples. The higher the value the larger the distance between samples. Negative values will invert the Radial Blur. 
 > > 1. **Radial Blur Samples** - This will control how many samples are applied to the Radial Blur effect. The higher the value, the blurrier the image will be.
 > > 1. **Radial Blur Center** - This will control the position (x,y) where the Radial Blur's center is to control the direction of the blur.
 > > 1. **Radial Blur Sample Offset** - This will control offsetting each sample's location (x,y) giving further control to distort the image.
 > 
 > - **Retro**
+> 
+> ![](../assets/images/fx-retro.png)
+> 
+> Adding the tag **Gonzo.Effects.Retro** will apply a 32-bit style effect. It has the following settings available.
 >
+> ![](../assets/images/retro-settings.png)
+>
+> > 1. **Retro Scale** - This value controls the scale of the Retro effect. The smaller the value the more pixelated the image will look (larger pixels).
+> > 1. **Retro Multiply** - This value controls the multiplication in the material related to the dithering in the Retro effect.The higher the value the smoother the dithering will be.
+> 
 > - **Tiles**
 >
 > - **World Glitch**
