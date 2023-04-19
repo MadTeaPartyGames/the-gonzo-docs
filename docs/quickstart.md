@@ -12,22 +12,21 @@ nav_order: 2
 ## Quick Start Steps:
 {: .fs-7 .fw-700 }
 > - In the Content Browser, enable the setting to show plugin-content
-> 
 > ![](../assets/images/browser-settings.png)
-> - Locate the GonzoFX actor in the Content Browser
-> 
-> ![](../assets/images/actor-path.png) 
+> - Locate the GonzoFX actor in the Content Browser. 
+> - If installed to the engine only, it will be under Engine/Plugins:
+> ![](../assets/images/browser-plugins.png) 
+>
+> - If installed to project, it will be under Plugins:
+> ![](../assets/images/actor-path.png)
+>  
 > - Place a GonzoFX actor into a level
-> 
 > ![](../assets/images/actor-place.png) 
 > - Default settings will use a timer to always check for Gameplay Tags and setting changes for the various effects.
-> 
 > ![](../assets/images/actor-defaults.png) 
 > - Add Gameplay Tags from under **Gonzo.Effects** to apply the effects
-> 
 > ![](../assets/images/actor-fx-tags.png) 
 > - Individual settings can be found under the **Gonzo Effects** section of the GonzoFX actor.
-> 
 > ![](../assets/images/fx-settings.png) 
 
 ## **Important Information:**
