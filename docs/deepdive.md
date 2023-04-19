@@ -285,7 +285,7 @@ nav_order: 3
 > ![](../assets/images/tiles-settings.png)
 >
 > > 1. **Tiles Centered** - This controls if the Tiles effect is centered to the screen.
-> > 1. **Tiles Count** - This value controls the number of tiles displayed on scree.
+> > 1. **Tiles Count** - This value controls the number of tiles displayed per row.
 > 
 > - **World Glitch**
 >
@@ -294,6 +294,15 @@ nav_order: 3
 > Adding the tag **Gonzo.Effects.WorldGlitch** will apply a glitchy effect to all of the objects in the world. It has the following settings available.
 >
 > ![](../assets/images/worldglitch-settings.png)
+>
+> > 1. **World Glitch Animated** - This controls if the World Glitch effect is animated or static.
+> > 1. **World Glitch Anim Speed** - This value controls the rate the animation is played. The higher the value the faster the animation plays.
+> > 1. **World Glitch Distance** - This value controls how far out the effect is from the screen. The higher the value the further the effect will be.
+> > 1. **World Glitch Distance Sharpness** - This value controls the exponent in logic in the material related to the distance. 
+> > 1. **World Glitch Phase** - This value controls which phase of the animation the World Glitch is in. This will have a greater impact if using **World Glitch Animated** disabled (unchecked).
+> > 1. **World Glitch Power** - This value controls the strength of the World Glitch effect. The higher the value the stronger the effect.
+> > 1. **World Glitch Grid Pos** - This controls the position(x,y,z) of the grid used in the material for the World Glitch effect.
+> > 1. **World Glitch Grid Size** - This controls the size(x,y,z) of the grid used in the material for the World Glitch effect.
 
 ### Advanced Effects: 
 {: .fs-5 .fw-700 }
