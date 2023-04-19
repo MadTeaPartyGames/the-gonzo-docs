@@ -278,6 +278,15 @@ nav_order: 3
 > 
 > - **Tiles**
 >
+> ![](../assets/images/fx-tiles.png)
+> 
+> Adding the tag **Gonzo.Effects.Tiles** will split the screen image into a set number of tiles. It has the following settings available.
+>
+> ![](../assets/images/tiles-settings.png)
+>
+> > 1. **Tiles Centered** - This controls if the Tiles effect is centered to the screen.
+> > 1. **Tiles Count** - This value controls the number of tiles displayed on scree.
+> 
 > - **World Glitch**
 >
 > > ![](../assets/gifs/fx-worldglitch.gif)
